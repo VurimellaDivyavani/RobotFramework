@@ -1,0 +1,5 @@
+*** Test Cases ***,${username},${password}
+Invalid Username,dgagddg,learning
+Invalid Password,rahulshettyacademy,plfdfjg
+Special Characters in Username,@#@$%^^$$(),learning
+Special Characters in Password,rahulshettyacademy,^&$%
